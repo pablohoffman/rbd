@@ -1,0 +1,1 @@
+rbd es is a Linux module which implements a block device driver with a remote storage. It aims to provide network RAID1 functionality when combined with Linux standard software RAID tools.
